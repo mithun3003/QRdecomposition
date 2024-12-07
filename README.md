@@ -58,7 +58,6 @@ def QR_Decomposition(A):
 ```
 
 ## Output
-```
 ![output](image.png)
 
 ```
